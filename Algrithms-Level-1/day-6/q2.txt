@@ -1,4 +1,4 @@
-Diff:
+Diff: Medium
 
 __Permutation in String__
 
