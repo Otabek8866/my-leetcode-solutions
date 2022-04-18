@@ -5,3 +5,9 @@ class Solution:
             if nums[i] != nums[i+1]:
                 return nums[i]
         return nums[-1]
+
+        # Solution 2
+        # res = 0
+        # for i in nums:
+        #     res ^= i
+        # return res
